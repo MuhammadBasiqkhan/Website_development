@@ -1,0 +1,8 @@
+.left .para{
+   
+    background-color: bisque;
+}
+
+p:first-child{
+    color: green;
+}
